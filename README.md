@@ -2,7 +2,8 @@
 
 > An AI-powered property investment analysis tool built on AWS. An agent uploads a property PDF, and within 90 seconds receives a complete branded investment report — including ROI projection, Sokad criteria check, risk flags, market context and a client email draft — ready to download.
 
-![Uploading 1780651118857.jpg…]()
+<img width="822" height="1280" alt="1780651118857" src="https://github.com/user-attachments/assets/329470c1-1c68-4c3f-a19b-c04ff556219f" />
+
 
 
 
