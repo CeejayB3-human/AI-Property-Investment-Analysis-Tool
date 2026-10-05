@@ -1,4 +1,4 @@
-# Sokad Creations — AI Property Investment Analysis Tool
+# AI Property Investment Analysis Tool
 
 > An AI-powered property investment analysis tool built on AWS. An agent uploads a property PDF, and within 90 seconds receives a complete branded investment report — including ROI projection, Sokad criteria check, risk flags, market context and a client email draft — ready to download.
 
