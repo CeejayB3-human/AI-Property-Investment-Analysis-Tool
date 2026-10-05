@@ -7,9 +7,8 @@
 | Resource | URL |
 |---|---|
 | **Live App** | https://main.d39kc998qcy1rf.amplifyapp.com |
-| **API Endpoint** | https://qsm7phc7d7.execute-api.us-west-2.amazonaws.com |
 | **AWS Region** | us-west-2 |
-| **AWS Account** | 055370383525 |
+| **AWS Account** | *********** |
 
 ---
 
